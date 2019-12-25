@@ -1,0 +1,196 @@
+{
+  "main": {
+    "name":"Sarwar Saif",
+    "occupation":"(Full Stack Developer & Machine Learning Researcher)",
+    "description":"A creative, data-driven and self-motivated person who always passionate about learning cutting-edge technologies and solving real-world problems with proficient marketing and communication skills.",
+    "image":"saif3.png",
+    "bio":"I have completed my graduation from Ahsanullah University of Science and Technology in Computer Science and Engineering background in July 2019 with a strong background in coding and development skills. I'm from Dhaka, Bangladesh. I have helped to develop two award-winning projects. One is an online learning management system named Amar iSchool and another one is an android mobile app named Pregnancy Health care which was for pregnant mothers. I have done my undergraduate thesis under  Asst. Prof. Dr Nusrat Sharmin and I published a paper on Automatic Human Brain Segmentation in ICCIT 2019. After my graduation, I started my own company named Pioneer Alpha Ltd which aims to solve major problems in Bangladesh through IT solutions. I love working with Python and JavaScript. I have created many projects using Java, PHP, JavaScript, Python, C#. I have created websites using PHP, JavaScript, React, Node.js, Express, MySql, MongoDB, Servlet. I'm currently working on my machine learning skills to create intelligent web applications.",
+    "contactmessage":"Please send your message if you have any inquiry.Thank you!",
+    "email": "saifmu6@gmail.com",
+    "phone": "01x-xxx-xxxxx",
+    "address":{
+      "street":"(Jurain Munshibari)",
+      "city":"(Dhaka)",
+      "state":"",
+      "zip": "(1204)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"images/cv/Sarwar-Saif_CV_gen.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/sarwar.mugdho",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/SarwarSaif3",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/saifmu6",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sarwarsaif/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/sarwar.mugdho",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/sarwarsaif",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"live:.cid.4ab4ce507350a243",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I love python for its popularity and versatility.",
+    "education":[
+      {
+        "school":"Ahsanullah University of Science and Technology",
+        "degree":"Bachelor of Science in Computer Science and Engineering",
+        "graduated":"July 2019",
+        "description":"C.G.P.A: 3.497 out of 4.00. || COURSEWORK INCLUDED: Artificial Intelligence, Pattern Recognition, Digital Image Processing, Mathematics, Statistics,Algorithms, Numerical Analysis."
+      },
+      {
+        "school":"Dhaka City College",
+        "degree":"HIGHER SECONDARY SCHOOL CERTIFICATE",
+        "graduated":"July 2014",
+        "description":"G.P.A: 5.00 out of 5.00 in all subjects from Science division."
+      },
+      {
+        "school":"Bangladesh Bank Adarsha Uchcha Bidyalay",
+        "degree":"SECONDARY SCHOOL CERTIFICATE",
+        "graduated":"May 2012",
+        "description":"G.P.A: 5.00 out of 5.00 in all subjects from Science division."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"65%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"PHP",
+        "level":"60%"
+      },
+      {
+        "name":"C++",
+        "level":"58%"
+      },
+      {
+        "name":"SQL",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Node.js",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"95%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Amar iSchool",
+        "category":"An online learning platform.",
+        "image":"amarischool.png",
+        "url":"https://www.amarischool.com"
+      },
+      {
+        "title":"Food Freaks BD",
+        "category":"An online food delivery website made for my 3rd year project.",
+        "image":"foodfreaksbd.png",
+        "url":"https://www.youtube.com/watch?v=EW0RqsAfQCY&t=24s"
+      },
+      {
+        "title":"Monster-Rolodex",
+        "category":"Simple front-end design using React.js, SAAS.",
+        "image":"monster.png",
+        "url":"https://sarwarsaif.github.io/Monster-Rolodex/"
+      },
+      {
+        "title":"Tract Segmentation Visualizer",
+        "category":"A desktop application for machine learning segmented tract visualization.",
+        "image":"tract.png",
+        "url":"https://youtu.be/7DD-twGSTX0"
+      },
+      {
+        "title":"Multi-clientSentimentalChatBot",
+        "category":" A multi-client desktop application. Developed to chat with the autonomous server which also classify the sentiment of the message.",
+        "image":"chatbot.png",
+        "url":"https://www.youtube.com/watch?v=936yxRryKIM&t=25s"
+      },
+      {
+        "title":"Detection of vessels using line tracking algorithm",
+        "category":" A digital image processing desktop application.",
+        "image":"detection.png",
+        "url":"https://youtu.be/4Dj5hfntwTM"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I'm looking to expand my portfolio while I'm on top and while I'm young.",
+        "user":"Floyd Mayweather, Jr."
+      }
+    ]
+  }
+}
